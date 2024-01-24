@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Arthur, a passionate Embedded Engineer. Welcome to my GitHub profile!
+I'm Arthur, a passionate Embedded Software Engineer. Welcome to my GitHub profile!
 
 ## 🔧 Project Repos
 
