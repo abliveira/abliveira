@@ -32,3 +32,5 @@ I'm Arthur, a passionate Embedded Software Engineer. Welcome to my GitHub profil
 - [python](https://github.com/abliveira/python)
 - [linux](https://github.com/abliveira/linux)
 - [git](https://github.com/abliveira/git)
+- [software engineering](https://github.com/abliveira/swe)
+  
