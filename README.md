@@ -22,12 +22,13 @@ I'm Arthur, a passionate Embedded Software Engineer. Welcome to my GitHub profil
 - [Caminho-Livre](https://github.com/abliveira/Caminho-Livre)
 - [StudyCircle](https://github.com/abliveira/StudyCircle)
 - [WeatherApp](https://github.com/abliveira/WeatherApp)
+- [WhatsStarter](https://github.com/abliveira/WhatsStarter)
 - [alexa-sueca](https://github.com/abliveira/alexa-sueca)
 
 ## 🚀 Learning Repos
 
 - [c](https://github.com/abliveira/c)
-- [cpp](https://github.com/abliveira/cpp)
+- [c++](https://github.com/abliveira/cpp)
 - [java](https://github.com/abliveira/java)
 - [python](https://github.com/abliveira/python)
 - [linux](https://github.com/abliveira/linux)
